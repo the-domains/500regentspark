@@ -1,5 +1,8 @@
+name: 500RegentsPark
+favicon: null
+layout_spectrum: 0.09509
+typography_spectrum: 0.8187184
 title: 'A Palm Beach Regency Estate - Offered for $12,950,000 USD'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5625
-  brandStrength: 0.6875
-  rhythmicContrast: 0.9347897863481194
   brandColors:
     - '#ffffff'
     - '#182f58'
     - '#9c6f38'
     - '#2b89c6'
     - '#c09c65'
+  brandStrength: 0.6875
   lightness: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: 500RegentsPark
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.8187184
-layout_spectrum: 0.3431703
+  saturation: 0.5625
+  rhythmicContrast: 0.5
+purpose: []
